@@ -5,7 +5,7 @@ AN end-to-end Exploratory Data Analysis (EDA) on historical Indian Railways acci
 and evaluate safety fund allocation efficiency.
 
 ## Tech Stack
-* **Language:**Python
+* **Language:** Python
 * **Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 * **Enironment:** Jupyter Notebook
 
