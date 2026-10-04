@@ -1,4 +1,4 @@
-# Indian Railway Accidents & Safety Analysis (1982-@024)
+# Indian Railway Accidents & Safety Analysis (1982-2024)
 
 ## Overview
 AN end-to-end Exploratory Data Analysis (EDA) on historical Indian Railways accident datasets to uncover temporal patterns, identify high-risk geographic zones
